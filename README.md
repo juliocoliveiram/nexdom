@@ -6,7 +6,7 @@ entidades, como por exemplo: Produto e Movimento Estoque.
 ## Tecnologia BackEnd
 * Java Spring Boot
   
-## Tecnologias FrontEnd:
+## Tecnologia FrontEnd:
 * React
 
 ### Observações
